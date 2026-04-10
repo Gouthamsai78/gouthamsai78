@@ -55,7 +55,7 @@ export default function Hero() {
           <br />
           I refused to make the same mistake.
           <br />
-          I&apos;m <strong>Gautam Sai</strong>, a 16-year-old AI Developer
+          I&apos;m <strong>Goutham Sai</strong>, a 16-year-old AI Developer
           and founder of Guys Media.
         </p>
       </div>

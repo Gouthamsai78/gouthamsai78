@@ -61,7 +61,7 @@ export default function Grind() {
               <code>
 {`// era: 2022-2023
 const developer = {
-  name: "Gautam",
+  name: "Goutham",
   stack: ["HTML", "CSS", "React", "Python"],
   projects: ["MovieApp", "Portfolio_v1"],
   mindset: "traditional_coding"

@@ -100,7 +100,7 @@ export default function CTA() {
           </div>
         </div>
         <footer className="site-footer">
-          <p>&copy; 2026 Gautam Sai. All rights reserved.</p>
+          <p>&copy; 2026 Goutham Sai. All rights reserved.</p>
           <p className="footer-note">Built with obsession, not templates.</p>
         </footer>
       </div>
